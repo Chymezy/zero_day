@@ -1,1 +1,1 @@
-This is a sub-file readme file
+This file is mandatory in projects
